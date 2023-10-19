@@ -1,0 +1,17 @@
+Exercise 5:
+
+1) The time each vehicle passes is recorded by the first unit.
+
+2) Each vehicle plate number is identified by OCR software
+
+3) The information is relayed to the second unit
+
+4) Each vehicle pass time is also recorded by the second unit
+
+5) The travel time between units its calculated by the microprocessor
+
+6) The speeding vehicle's registration number is relayed to police headquarters.
+
+7) Each vehicle is matched with the DVLC database by a computer
+
+8) A letter is printed to the vehicle owners by mailmerge

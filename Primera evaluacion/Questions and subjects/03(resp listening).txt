@@ -1,0 +1,23 @@
+Ejercicio 2:
+
+1 - Hardware, communication , maths, computer architectures, software developement.
+2 - Planning, design, programming.
+3 - It was supped to have more job for programming or support.
+4 - Assembling computers.
+5 - Maths.
+
+Ejercicio 3:
+
+1a - Replace the programming code (pascal and kobol) for C++.
+1b - Working experience.
+2a - Learning access, system assembly and communication.
+2b - Making desgins for couple of clients (with access). Also had to assembly
+     50 computers from scratch in a 4 weeks period.
+ 
+Ejercicio 4:
+
+1 - Working for customers fixing things he doesnt know.
+2 - 
+3 - 
+4 - Isnt correct because you have to compare to other books.
+5 - He doesnt have money and/or time.

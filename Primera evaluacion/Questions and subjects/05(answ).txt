@@ -1,0 +1,27 @@
+A)
+
+1 - He used GNU programming tools.
+2 - Linux kernel was released on the internet.
+3 - Extend, develop or fix bugs
+4 - Because it will destroy their revenue stream
+5 - Command interpreters, programming tools, text editors, typsetting tools and graphical interfaces.
+6 - X its a complex distributed windowing system on which people implement graphicl interfaces
+7 - Gnome and KDE
+
+B1)
+
+a - VI
+b - V
+c - III
+d - I
+e - II
+f - IV
+
+B2)
+
+a - False
+b - False
+c - True
+d - True
+e - True
+

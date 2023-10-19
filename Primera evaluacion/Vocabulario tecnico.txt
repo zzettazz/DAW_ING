@@ -1,0 +1,22 @@
+Vocabulario técnico:
+
+- Fixed = Arreglo
+- Typesetting tools = Teclear
+- Hitherto = "Hasta ahora"
+- Wodely-ported = Ampliamente portable
+- Hyfhen = Guión (-)
+- Wavelength = Longitud de onda
+- Slightly = Ligeramente
+- Beam = Haz de luz
+- Pre-set = Preestablecido
+- Within = Dentro de
+- Measures = Medidas
+- Trace = Trazar
+- Trap = Trampa
+- Trigger = Lanzador (Gatillo)
+- Wit = Ingenio
+- Outwiitting = Ser mas listo
+- Motorist = Conductor de vehiculo a motor
+- Headquarters = Cuartel / sede
+- Mailmerge = Programa de destribucion de correo
+- Till = Caja registradora

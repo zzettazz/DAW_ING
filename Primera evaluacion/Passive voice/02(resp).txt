@@ -1,0 +1,19 @@
+Exercise 6
+
+A) The barcode is converted into electrical pulses by the scanner
+
+B) The price and description of the product are send to the EPOS till by the branch computer
+
+C) The barcode is read by the scanner
+
+D) The sale of the product is recorded by the branch computer
+
+E) The item and price are shown by the till
+
+F) The item is scanned by the till operator
+
+G) The pulses are send to the branch computer by the scanner
+
+H) The item and price are printed on the paper receipt by the till
+
+I) The stock file for a product is searched matching the barcode EAN by the branch computer

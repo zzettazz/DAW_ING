@@ -1,0 +1,13 @@
+Ejercicio 6:
+
+1  - backup ✅
+2  - upgrade ✅
+3  - free up ✅
+4  - upload ✅
+5  - start up ✅
+6  - update ✅
+7  - start up ✅
+8  - set up ✅
+9  - keep up ✅
+10 - catch up ✅
+11 - build up ✅
