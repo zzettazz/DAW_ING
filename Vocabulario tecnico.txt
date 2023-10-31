@@ -15,8 +15,11 @@ Vocabulario técnico:
 - Trap = Trampa
 - Trigger = Lanzador (Gatillo)
 - Wit = Ingenio
-- Outwiitting = Ser mas listo
+- Outwitting = Ser mas listo
 - Motorist = Conductor de vehiculo a motor
 - Headquarters = Cuartel / sede
 - Mailmerge = Programa de destribucion de correo
 - Till = Caja registradora
+- Bandwidth = Ancho de banda
+- Broadband = Banda ancha
+- Leasing = Renting
