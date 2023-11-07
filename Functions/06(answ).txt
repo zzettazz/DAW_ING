@@ -1,26 +1,45 @@
 Ejercicio 5
 
-1. Scanner: A scanner is a device which uses light and a computer for
-identifying things by its code (Barcode, QR, etc...).
+    1. Scanner: A scanner is a device which uses light and a computer for
+    identifying things by its code (Barcode, QR, etc...).
 
-2. Printer: Do you want to extract a digital document to paper?, a printer
-its your solution, this device uses paper and ink to convert them to paper.
+    2. Printer: Do you want to extract a digital document to paper?, a printer
+    its your solution, this device uses paper and ink to convert them to paper.
 
-3. ATM: An ATM is the most used public machine in the world, why?, 
-the answer its simple, because you can transfer money from you bank account
-to your hands!.
+    3. ATM: An ATM is the most used public machine in the world, why?, 
+    the answer its simple, because you can transfer money from you bank account
+    to your hands!.
 
-4. PDA: Also a such powerfull device, this is the basic tool for lot of
-works (Police, waiter, etc...).
+    4. PDA: Also a such powerfull device, this is the basic tool for lot of
+    works (Police, waiter, etc...).
 
-5. HDD: HDD its a device/disk where you can store digital data.
+    5. HDD: HDD its a device/disk where you can store digital data.
 
-6. Supercomputer:
+    6. Supercomputer:
 
-7. Mainframe computer:
+    7. Mainframe computer:
 
-8. Barcodes:
+    8. Barcodes:
 
-9. Swipe cards:
+    9. Swipe cards:
 
-10. Memory:
+    10. Memory:
+.
+
+Ejercicio 6
+
+    1. The CPU is a large chip inside the computer.
+
+    2. Data flows from the CPU to tha address bus.
+
+    3. The CPU can be divided into three parts.
+
+    4. Data flows between tha CPU and memory.
+
+    5. Peripherals are devices outside the computer but linked to it.
+
+    6. The signal moves across the VDU screen from one side to the other.
+
+    7. The CPU puts the address into the address bus.
+
+    8. The CPU can fetch data from memory along the data bus.
