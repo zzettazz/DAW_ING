@@ -43,3 +43,4 @@ Ejercicio 6
     7. The CPU puts the address into the address bus.
 
     8. The CPU can fetch data from memory along the data bus.
+.
