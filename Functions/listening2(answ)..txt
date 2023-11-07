@@ -1,0 +1,13 @@
+Under Warranty: Yes.
+Reported by: Jeniffer.
+Make: Octiplex.
+Model: GX 270.
+Service Tag NO.: AM96470.
+Address: University of edinburgh 21 HILL PLACE
+Problem: Can play many sound files form internet.
+OS: Windows XP.
+RAM: 512mb
+Network type: LAN.
+Diagnosis: Drivers might be wrong.
+Job number: E83095.
+Technician's name: David Lester.
