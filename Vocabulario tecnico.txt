@@ -3,7 +3,7 @@ Vocabulario técnico:
 - Fixed = Arreglo
 - Typesetting tools = Teclear
 - Hitherto = "Hasta ahora"
-- Wodely-ported = Ampliamente portable
+- Widely-ported = Ampliamente portable
 - Hyfhen = Guión (-)
 - Wavelength = Longitud de onda
 - Slightly = Ligeramente
