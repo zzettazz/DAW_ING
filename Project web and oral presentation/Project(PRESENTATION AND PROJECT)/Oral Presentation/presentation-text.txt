@@ -1,0 +1,41 @@
+Hello everyone, today we are gonna talk about docker, an open platform for developing, shipping, and running applications.
+
+* CHANGE PAGE TO CONTENTS *
+
+As i commented, heres a list of contents which im going to explain.
+
+* CHANGE PAGE TO 1 *
+
+The fist point is: What is docker?
+As you may imagine, docker is a lightweight open-source used for develope and test applications. It works by images, which are simple files that defines information like the O.S and other command for the O.S
+Then, we he have containers, another type of element which houses the O.S and os built from an image.
+
+Also can create and use different networks.
+
+* CHANGE PAGE TO 2 *
+
+Well, why is the most used?. Its because a couple of features.
+1 - Portability: Containers are enviroment-independent where applications run always the same way.
+2 - Efficiency: Containers share the host Kernel, which means less needed storage and resources.
+3 - Scalability: Easy to manage applications at any scale.
+
+* CHANGE TO PAGE 3 *
+
+
+Advantages and disadvantages.
+
+On the advantages we have what we talked before: Is portable, efficient and is quick and easy to deploy.
+And in the other side we have the disadvantages: It shares kernel, which can pose security risks, it has a hard learning and requires constant attention.
+
+* CHANGE TO PAGE 4 *
+
+Now lets make a simple demostration of it comparing it to Virtual machines, for example VirtualBox.
+
+This one creates one O.S and its kernel for each machine which needs high storage and medium-high resources. The good point is that has a very good isolation to host.
+
+On the other face we have Docker, which shares kernel and sometimes the O.S from the host. It uses low storage and resources.
+The best point from this tool is that has a public repository where you can download and install images and containers using only 1 command.
+
+In conclussion, Docker is better for building and testing applications, but Virtual Machines are better to deployment because of its security.
+
+And thats it! thank you everyone for your attention, i hope you liked it and learned something more about docker.
