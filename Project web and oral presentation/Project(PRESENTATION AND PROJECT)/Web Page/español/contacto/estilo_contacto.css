@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+}
+
+body {
+    backdrop-filter: blur(20px);
+    background-color: #FE611A;
+}
+
+body form {
+    text-align: center;
+    padding-top: 4vh;
+}
+
+body form input {
+    margin-bottom: 2vh;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 3vh;
+}
+
+body form input, .textarea {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.campoTexto {
+    height: 5vh;
+    width: 40vw;
+    padding: 1vh 1vw;
+    text-align: center;
+}
+
+.textarea {
+    width: 40vw;
+    height: 30vh;
+    background-color: white;
+    text-align: center;
+    padding: 1vh 1vw;
+}
+
+.botonEnviar {
+    margin-top: 4vh;
+    height: 8vh;
+    width: 20vw;
+    cursor: pointer;
+}
+
+.botonEnviar:hover {
+    background-color: black;
+    color: white;
+    border-color: white;
+}

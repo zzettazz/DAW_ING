@@ -1,0 +1,80 @@
+ORAL PRESENTATION IDEAS
+
+- What is Docker?
+
+- Why its mostly used?
+
+- Simple demostration
+
+- Advantages
+
+- Disadvantages
+
+- Conlussion
+
+
+------------
+Un ejemplo:
+------------
+
+**Slide 1: Introduction**
+
+Good [morning/afternoon/evening], today we are going to explore the fascinating world of Docker. Have you ever wondered how to simplify software development and application deployment? Docker is the answer. Let's dive into this technological container that has revolutionized the way we build, ship, and run applications.
+
+---
+
+**Slide 2: What is Docker?**
+
+Docker is an open-source platform that enables the automation of deploying applications within lightweight and portable containers. A container is a standardized unit of software that includes everything needed to run an application, such as code, libraries, dependencies, and configurations. Docker makes it easy to build, deploy, and run applications in consistent environments on any machine.
+
+---
+
+**Slide 3: Why is it mostly used?**
+
+So, why has Docker become an indispensable tool for developers and operations teams? The answer lies in its ability to address common challenges in software development and deployment:
+
+- **Portability:** Containers are environment-independent, meaning an application packaged in Docker will run the same way anywhere.
+
+- **Efficiency:** Containers share the host operating system kernel, making them lighter and faster than traditional virtual machines.
+
+- **Scalability:** Docker facilitates managing applications at any scale, enabling easy and fast deployment across development, testing, and production environments.
+
+---
+
+**Slide 4: Simple Demonstration**
+
+Let's perform a brief demonstration to illustrate Docker's simplicity. Imagine you have a web application. With Docker, we can encapsulate the entire application, including its dependencies, into a container. We can then run that container on any machine with Docker installed. This ensures the application functions the same way in any environment.
+
+---
+
+**Slide 5: Advantages of Docker**
+
+Now, let's talk about the advantages Docker offers:
+
+- **Portability:** Applications run consistently in any environment.
+
+- **Efficiency:** Containers are lightweight and share resources with the host operating system.
+
+- **Fast Deployment:** Facilitates quick and easy deployment and scalability of applications.
+
+- **Simplified Management:** Docker provides tools for efficiently managing, monitoring, and scaling containers.
+
+---
+
+**Slide 6: Disadvantages of Docker**
+
+Of course, there are no perfect solutions. Some disadvantages of Docker include:
+
+- **Security:** Sharing the kernel can pose security risks if not managed properly.
+
+- **Initial Learning Curve:** For some, there might be an initial learning curve to fully understand the Docker ecosystem.
+
+- **Requires Ongoing Attention:** Managing containers and large-scale orchestration may require constant attention to avoid issues.
+
+---
+
+**Slide 7: Conclusion**
+
+In conclusion, Docker has changed the way we develop, deploy, and run applications. Its ability to provide portability, efficiency, and scalability has made it an essential tool in the world of software development. While it has some drawbacks, its benefits far outweigh the disadvantages. Docker continues to be a key tool in the toolkit of any modern developer.
+
+Thank you for your attention. Any questions?
