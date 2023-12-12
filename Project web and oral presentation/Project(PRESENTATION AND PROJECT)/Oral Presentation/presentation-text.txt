@@ -7,10 +7,8 @@ As i commented, heres a list of contents which im going to explain.
 * CHANGE PAGE TO 1 *
 
 The fist point is: What is docker?
-As you may imagine, docker is a lightweight open-source used for develope and test applications. It works by images, which are simple files that defines information like the O.S and other command for the O.S
+As you may imagine, docker is a lightweight open-source platform used for develope and test applications. It works by images, which are simple files that defines information like the O.S and other command for the O.S
 Then, we he have containers, another type of element which houses the O.S and os built from an image.
-
-Also can create and use different networks.
 
 * CHANGE PAGE TO 2 *
 
