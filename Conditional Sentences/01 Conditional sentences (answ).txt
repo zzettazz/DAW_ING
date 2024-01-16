@@ -1,0 +1,33 @@
+Ejercicio 5
+
+1F -> If you press PrintScreen, you can make a copy of the screen
+2H -> If you press Ctrl + Alt + Del in Windows XP, it displays the Windows Security dialog box
+3B -> If you added more memory, it would speed up the computer
+4E -> If you installed a modem, you would be able to connect to a telephone line
+5G -> If you used a better search engine, you would find more relevant results
+6C -> If you forget to save regularly, you may lose data
+7A -> If you hold down the mouse button over an icon, you can drag it across the screen
+8D -> If you used and LCD display, you would have more space at your desk
+
+Ejercicio 6
+
+If you dont virus-check floppies, you can get infected
+If there was a power cut while you were using your computer, it can break
+If you install a faster processor, your computer will be faster
+If you press the delete key, you will erase
+If you use a search engine, you will find better results
+If you double-click on an icon, you will open an app
+If you use power-saving options, you will save battery
+
+Ejercicio 7
+
+Barcode Reader
+Mainframe Computer
+Laser Printer
+Expansion card
+Search engine
+Control bus
+Supervisor program
+Task bar
+System Tray
+Explorer Pane

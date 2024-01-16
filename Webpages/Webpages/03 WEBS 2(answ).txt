@@ -1,0 +1,11 @@
+Ejercicio 5
+
+1 - Dont use links on a text because its more confusing to the user to navigate through the page;
+2 - Always its better to use a button (also with an icon) to represent a link or a function;
+3 - 
+4 - In some cases is useful to older people to understand the page.
+5 - 
+6 - Always better to place it on the side of the screen or in the top, so its easier to locate it.
+7 - 
+8 - Depending on your webpage content it can be useful to implement it.
+9 - Dont overcharge the webpage with links, because it can confuse the user.
