@@ -6,3 +6,15 @@ Ejercicio 1
 4) 1M phone bill
 5) Raphael Gray and Sven Jaschan
 6) Sending thousands of emails to slow down services
+
+
+Ejercicio 3
+
+1) Hacking a CEO personal files
+2) He works on security systems to make it safer
+3) Because they give you their passwords
+4) Demo, help, guest
+5) Restrict access to the internet
+6) It checks the identity of the real user
+7) Dont use common names
+8) Fail access attempts
