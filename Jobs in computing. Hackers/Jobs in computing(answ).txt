@@ -1,0 +1,64 @@
+Ejercicio 1
+
+-----------------------------------------
+A: Viruses and other destructive programs
+-----------------------------------------
+
+- Encryption
+- Trojan
+- Logic Bomb
+- Trigger Routine
+
+-----------------------------------------
+B: Data protection
+-----------------------------------------
+
+- Anti-virus software
+- Backups
+- Passwords
+
+-----------------------------------------
+C: Comunication Systems
+-----------------------------------------
+
+- Bandwidth
+- FTP (File Transfer Protocol)
+- GPS (Global Positioning System)
+- Hyperlink
+- Router
+- Pager
+
+-----------------------------------------
+D: Internet
+-----------------------------------------
+
+- Browser
+- ISP (Internet Service Provider)
+- IRC (Internet Relay Chat)
+- Usenet
+
+-----------------------------------------
+E: World Wide Web
+-----------------------------------------
+
+- Domain name
+- URL
+- Extensible Markup Language
+
+
+
+Ejercicio 2
+
+-----------------------------------------------------------------------------
+|                                  |               |                        |
+| IT Engineer (Network & Database) |  Team Leader  | E-Commerce cponsultant |
+|                                  |               |                        |
+-----------------------------------------------------------------------------
+|                                  |               |                        |
+|      Visual Basic Developer      | Web Developer |     Network Support    |
+|                                  |               |                        |
+-----------------------------------------------------------------------------
+|                                  |               |                        |
+|             Webmaster            |   Programmer  |      System Manager    |
+|                                  |               |                        |
+-----------------------------------------------------------------------------
